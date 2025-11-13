@@ -1,4 +1,4 @@
-#Description: This script is used to identify virtual machines which have not been properly tagged in vCenter
+#Description: This script is used to identify elastic documents that have specific fields
 #!usr/bin/env python3
 
 # import the Elasticsearch low-level client library
